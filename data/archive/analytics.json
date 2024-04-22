@@ -1,0 +1,23 @@
+{
+    "lexical_density": {
+        "Minimum": 0.44405594405594406,
+        "Maximum": 1.0,
+        "Mean": 0.9341308778486798,
+        "Median": 0.95,
+        "Standard Deviation": 0.07590061868416328
+    },
+    "avg_word_length": {
+        "Minimum": 1.3333333333333333,
+        "Maximum": 17.0,
+        "Mean": 4.651806009665523,
+        "Median": 4.619047619047619,
+        "Standard Deviation": 0.7321100912716435
+    },
+    "unlikely_word_frequency": {
+        "Minimum": 0,
+        "Maximum": 86,
+        "Mean": 0.987971248349714,
+        "Median": 1.0,
+        "Standard Deviation": 1.6753094705942178
+    }
+}

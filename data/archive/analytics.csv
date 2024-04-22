@@ -1,0 +1,4 @@
+﻿Type of Complexity,Minimum,Maximum,Mean,Median,Std. Deviation
+Lexical Density (num of unique words),0.444055944,1,0.934130878,0.95,0.075900619
+Average Word Length,1.333333333,17,4.65180601,4.619047619,0.732110091
+Unlikely Word Frequency,0,86,0.987971248,1,1.675309471
